@@ -5,4 +5,6 @@ text-align: center;
  a{
  	color: white;
  }
-
+.mdb-color.lighten-2{
+	background-image: url("img/about.jpg");
+}
